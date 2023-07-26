@@ -15,3 +15,12 @@
 - Implement server side rendered HTML/PUG templates
 - Deploy app to Heroku etc..
 - Introduce more advanced features for tours
+
+------------------------
+
+🚀 Technologies:
+- Node.js
+- Express
+- MongoDB
+- Mongoose
+- and more... 🙂
